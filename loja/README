@@ -1,0 +1,41 @@
+Módulo para Pagamento com Itaú Shopline
+
+
+Esse é um módulo que desenvolvi para que possa ser implementado
+facilmente na loja oscommerce a forma de pagemtno com itaú 
+shopline.
+
+Instalação
+
+Para instalar este módulo na loja virtual basta copiar os arquivos
+para os locais correspondentes.
+São dois arquivos de mesmo nome (shopline.php) sendo que um esta na 
+pasta:
+
+includes/languages/portugues/modules/payment/
+
+esta pasta é onde ficam os arquivos contendo os dados de configuração
+da loja em português do brasil. 
+
+O segundo arquivo é o módulo para o pagamento:
+
+includes/modules/payment
+
+esta pasta contém todos o módulos de pagamento oferecidos
+pela loja oscommerce.
+
+
+O Itaú oferece toda a documentação necesária para implementar 
+sua solução em seu servidor.
+
+
+
+Site oficial da loja oscommerce : http://www.oscommerce.com/
+Site com a versão em português: http://www.phpmania.org/
+
+André Osti de Moura
+andreoandre [a] gmail [.] com
+http://www.oz.railsplayground.com
+
+
+
