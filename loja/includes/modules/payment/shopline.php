@@ -1,8 +1,8 @@
 <?php
 /*
-* Modulo paar pagamento com itau shopline paar loja oscommerce
+* Modulo para pagamento com itau shopline paar loja oscommerce
 * Andre Osti de Moura
-* andreoandre [a] gmail [.] com
+* andreoandre [at] gmail [dot] com
 */
 
  class shopline {
